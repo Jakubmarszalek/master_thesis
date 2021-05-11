@@ -10,3 +10,6 @@ https://www.emerald.com/insight/content/doi/10.1108/BPMJ-05-2020-0216/full/html
 https://www.emerald.com/insight/content/doi/10.1108/IMDS-08-2020-0489/full/html
 
 https://onlinelibrary.wiley.com/doi/epdf/10.1002/sys.21565
+
+#strona do szukania:
+https://dblp.org/
